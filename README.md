@@ -13,7 +13,9 @@ Answer:
 
 What is software engineering, and how does it differ from traditional programming?
 Answer:
-Software engineering is akin to Civil engineering in the construction of a tall building where fine planning, procedure and regular checking and testing are done to make sure that the final product is a well-built towering structure. On the other hand, traditional programming may be compared to construction of a small house: it involves writing code to solve the tasks at hand without excessive regard to the circumstances that are going to occur in the nearby future, to scaling of the program, or to concurrent work of several developers or teams. Thus, even as they both produce tangible structures, software engineering focuses on the entire life cycle of the software from its initial design to its disposal, the guarantee that it is fit for the purpose it is required for, and its ability to alter and grow in functionalities as the need arises.
+Software engineering is defined as the disciplined process of constructing software and its related components as well as systematically supporting those components. It entails putting into practice the goal of engineering which is to develop software that is effective, dependable, and adaptable. In contrast, the conventional programming approach entails writing programs to solve particular problems and may not involve elements that ought to be looked at in larger pictures such as methods of project delivery, sustainability, or expansion.
+
+Hence while software engineering entails elaborate processes, and a combined effort in creating structures that are quite reliable, traditional programming on the other hand is all about applying logic and skills in problem solving as well as coding.
 
 Software Development Life Cycle (SDLC):
 
