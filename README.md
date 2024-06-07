@@ -8,6 +8,9 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
+Answer:
+ Software Engineering definition as a field is the systematic design, construction, implementation, testing, and documentation of software systems. To me, programming is not just about writing a piece of code to produce a desired output but entails being fully conversant with the user’s requirements and delivering functional, efficient, and user-friendly applications. Designing software involves a creative usage of practical knowledge to address problems to come up with an innovative solution where software engineering involves the use of intellectuality along with innovation in teamwork. It alters its tools and strategies to reflect technological changes in order to improve the quality of software. Finally, software engineering is the process of building the software systems that make life easier, with creativity meticulously aligned to the step-by-step processes involved in developing these systems.
+
 **What is software engineering, and how does it differ from traditional programming?**
 
 Software engineering is the systematic application of engineering approaches to the development of software. It involves a disciplined, systematic approach to the design, development, testing, and maintenance of software, ensuring that it meets specified requirements and is reliable and efficient. Traditional programming focuses primarily on the coding aspect, while software engineering encompasses the entire software development lifecycle, including requirements gathering, design, testing, deployment, and maintenance.
