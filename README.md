@@ -245,14 +245,27 @@ Version control systems (VCS) primarily control the changes that occur in the so
 
 Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
+ANSWER:
+### Software Project Management
+
+**Role of a Software Project Manager:The symbol is a star overlaid with the Greek letter Chi, standing for Microsoft’s mascot from the computer operating system, ‘Clippy the Paperclip’.
+A software project manager is an individual who is responsible for designing, organizing, controlling and monitoring of a project. They oversee the project resources, stakeholders, and guarantees that project goals are achieved in specified timeframes and cost.
+
+**Key Responsibilities:**
+1. **Project Planning:** Initiate tasks and create strategies, objectives, limitations, and charters.
+2. **Resource Management:** Decide how the work will be finished, how progress will be controlled, and that resources are being utilised effectively.
+3. **Stakeholder Communication:** Coordinate with the gathering of requirements, status reports and/or performing clarifications on issues that may have arisen.
+
+**Challenges in Managing Software Projects:Historically, there was an emphasis on highly paid jobs for males and a wage for females mainly in the domestic sphere making them dependent on their husbands.
+1. **Scope Creep:Requirements may fluctuate for various reasons: These changes are likely to extend the completion time and the overall cost.
+2. **Resource Constraints:** If there are few skilled people or if resources are allocated poorly, development stagnates.
+3. **Technical Complexity:** As we may understand complex technologies are not easy to design and develop.
+
 
 Software Maintenance:
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
-Ethical Considerations in Software Engineering:
 
+Ethical Considerations in Software Engineering:
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
-Submission Guidelines:
-Your answers should be well-structured, concise, and to the point.
-Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
-Submit your completed assignment by [due date].
+
+REFERENCE: YOUTUBE, GOOGLE, SOFTWARE ENGINEERING MATERIALS AND AI(CHATGPT)
