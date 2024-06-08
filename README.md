@@ -192,8 +192,9 @@ The concept of modularity entails the act of partitioning a software system into
 **Testing in Software Engineering:**
 Testings are the processes that check the software to determine if it meets all the requirements, behaves as intended or is maintainable.
 
-**Types of Testing:**
-- **Unit Testing:** Compiles and executes a single module.
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+ANSWER
+**Unit Testing:** Compiles and executes a single module.
 - **Integration Testing:It is a testing methodology that aims at or focuses on testing the interactions of various modules.
 - **System Testing:** The commerces checks all the features.
 - **Acceptance Testing:◦ End customer oriented testing.
@@ -204,12 +205,10 @@ Testings are the processes that check the software to determine if it meets all 
 - **Risk Mitigation:** Impacts in reducing probability of failure or malfunction.
 - **Customer Satisfaction:** Is a way of improving customer satisfaction plus an increase in trust.
 
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
-
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
-Software Project Management:
 
+Software Project Management:
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
 
