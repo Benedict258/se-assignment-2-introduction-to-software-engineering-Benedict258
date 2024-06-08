@@ -66,8 +66,44 @@ Outcome: This may include updated software, maintenance reports, issue logs, and
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
-Requirements Engineering:
 
+Agile vs. Waterfall Models:
+
+Agile Model:
+Approach: Iterative and incremental.
+
+Flexibility: High, and also flexible as the need may arise to change them within the course of the undertaking.
+
+Customer Involvement: A steady relationship with constant communication.
+
+Phases: Some of the cycles are created with the help of planning, design, coding and testing stages.
+
+Delivery: Small and regular deliveries of tangible components of the system.
+
+Documentation: Very limited, which was mostly on creation of working software.
+
+Team Structure: Cross-functional teams.
+
+Risk Management: This is by ensuring that feedback sessions are conducted on a regular basis such that if there is a deviation from the desired course, adjustments can be made.
+
+Waterfall Model:
+Approach: Staged and therefore each phase is separated.
+
+Flexibility: Low in most cases as the commitments change are hard to make after the completion of a particular phase.
+
+Customer Involvement: Usually confined to what the client has brought at the beginning and the end of the job.
+
+Phases: Specification, design, development, execution, verification, validation, support, improvement.
+
+Delivery: Delivery requires only at the end.
+
+Documentation: Documents compiled at every stage of the process.
+
+Team Structure: Formal, where there is recognition of ranks and obligations among players.
+
+Risk Management: If realised in the early stage, then management becomes challenging because the process is rigid.
+
+Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
 
