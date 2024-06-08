@@ -147,6 +147,25 @@ Waterfall:
 
 Requirements Engineering:
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+ANSWER:
+Requirements Engineering
+
+What is Requirements Engineering?
+The process of identifying the needs of the software system and defining its functional characteristics is known as requirements engineering. It encompasses the identification of the needs of users and other stakeholders and the communication of the requirement to those into development.
+
+Process:
+1. Elicitation: Identify requirements with the help of interviews and workshops with the managers.
+2. Analysis:Break down how requirements look like, in terms of importance.
+3. Documentation: While documenting requirements it is also important to ensure and state them in a way that would require tools such as use case and requirement specification.
+4. Validation:Check and verify requirements with the stakeholders to ensure that the requirements will fulfill their needs and that the ensuing implementation is possible.
+
+Importance in the Software Development Lifecycle:
+It should be noted here that while the term ‘manufacturing’ seems to be the preferred one while drafting the bills, ‘industries’ is actually used in the laws that these bills go on to create, and so it is easier to work with this broader, comprehensive term (Cohen 2005).
+- Guiding Development: Requirements shape the development process acting as a guide in making sure the right software is developed.
+- Minimizing Risks:Setting clear requirements help avoid confusion right from the development phase, eliminating instances of having to redo a project part.
+- Customer Satisfaction:As far as the stakeholders are involved, the satisfaction of the customers and successful completion of the projects can be easily attained.
+- Efficiency: The clearly defined expectations help in preparing project timelines which in return lessens over expenditures and time mishaps.
+- Foundation for Testing:Hedged requirement gives basis for assessment that yields to test whether the software is meeting the requirement or not.
 
 
 Software Design Principles:
