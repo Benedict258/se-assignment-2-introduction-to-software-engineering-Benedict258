@@ -238,7 +238,8 @@ Version control systems (VCS) primarily control the changes that occur in the so
    - **Features:** Centralized with high performance output for version control.
    - **Example:** Published as per force helix core.
 
-5. **Team Foundation Version Control (TFVC):**### Sisco & Sternberg (1999)<|reserved_special_token_264|>ing (1998)Ding (1998)Wong & Hui (1997)Mintzberg (1998)Huygens & Sanders (1996)Franco & Hamed (1998)Carasco & Amigo (1998)Eroglu et al. (1998) and Donnelly (1998)By followingorganization by activity
+5. **Team Foundation Version Control (TFVC):**### Sisco & Sternberg (1999)
+(1998)Ding (1998)Wong & Hui (1997)Mintzberg (1998)Huygens & Sanders (1996)Franco & Hamed (1998)Carasco & Amigo (1998)Eroglu et al. (1998) and Donnelly (1998)By followingorganization by activity
    - **Features:** Convenient, tightly integrated into the Microsoft Visual Studio IDE.
    - **Example:** Tieto Azure DevOps Server.
 
