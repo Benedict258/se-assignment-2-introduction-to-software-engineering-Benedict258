@@ -8,12 +8,11 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-Answer:
+ANSWER:
  Software Engineering definition as a field is the systematic design, construction, implementation, testing, and documentation of software systems. To me, programming is not just about writing a piece of code to produce a desired output but entails being fully conversant with the user’s requirements and delivering functional, efficient, and user-friendly applications. Designing software involves a creative usage of practical knowledge to address problems to come up with an innovative solution where software engineering involves the use of intellectuality along with innovation in teamwork. It alters its tools and strategies to reflect technological changes in order to improve the quality of software. Finally, software engineering is the process of building the software systems that make life easier, with creativity meticulously aligned to the step-by-step processes involved in developing these systems.
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
-Answer:
+ANSWER:
 Software Engineering is the adaptation of practical and organized approach to the development of software in order to have maximum reliability, efficiency and quality. This means it consists of a staged/seven-step model of software development including the design process, creation of software, testing and sustaining the software product.
 
 Differences from Traditional Programming:Scope: The scope of SE is from application development to its maintenance and disposal but traditional programming is merely the coding step among all these phases.
@@ -24,18 +23,55 @@ Team Size: May require more extensive and varied group participation; plain codi
 
 Documentation: Possesses a strong writing component; sometimes, regular programming entails a lack of extensive report writing.
 
+Software Development Life Cycle (SDLC):
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
+ANSWER:
 Software Development Life Cycle (SDLC): A framework that identifies procedures and activities spanning through the entire life cycle of the software right from the developmental stage to the time of deployment and continued use. Common stages are initiation, requirements gathering and determination, architecture, construction, integration, and support.
 
+phases of the Software Development Life Cycle.
+ Planning:
+Objective: Functional definition: Determine and establish goal, scope, resource requirement, and time frame with respect to the project. 
+Activities: Resource assessment and evaluation; Setting up of hypothesis and testing of hypothesis; Scoping and costing; Risk assessment and conclusion. 
+Outcome: Project specifications, initial scoping, and project cost and time estimate. 
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+ Requirement Analysis:
+Objective: This step involves collecting information and demands from the various stakeholders. 
+Activities: Looking at go requirements, Interviews, requirements-gathering sessions, documentation processes.
+Outcome: Use Case realisation; Requirements Definition; User Stories. 
+
+ Design:
+Objective: Architecture and detailed design of the system are part of strategy planning. 
+Activities: The system design involves various concepts such as the architectural design, database design, and user interface design. Outcome: schematic diagrams , concept maps, hierarchies, architecture maps, wire frames, data base architecture, mock-ups, prototypes. 
+
+ Implementation (Coding):
+Objective: Develop the code in a manner that correspond to the above design. 
+Activities: We perform the coding, code reviews, and unit testing steps. 
+Outcome: Program listing, commentaries and annotations, check results. 
+
+ Testing:
+Objective: Make sure that there exists a quality assurance process to Review/store software and to Check/verify that it is not buggy and meets the needs and specifications as needed.
+Activities: System testing, integration testing and performance testing and testing for security. 
+Outcome: Test plans, Test cases/ scripts, Bug reports, Test Summary reports. 
+
+ Deployment:
+Objective: Deploy applications to the production environment and generate releasable and installable software.
+Activities: Pre-deployment preparations, staff familiarization, system configuration, and rollout. 
+Outcome: downloaded software, documents that indicate the process of deploying the software, user guides.
+
+ Maintenance:
+Objective: Be available and offer help, debug problems, and update as needed.
+Activities: Submission of bug reports, enhancements, finer tuning, support and tracking/analysis of user issues. 
+Outcome: This may include updated software, maintenance reports, issue logs, and periodic appearances of computer experts.
+
 Agile vs. Waterfall Models:
-
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
-Software Design Principles:
 
+
+Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
