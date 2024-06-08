@@ -12,12 +12,20 @@ Answer:
  Software Engineering definition as a field is the systematic design, construction, implementation, testing, and documentation of software systems. To me, programming is not just about writing a piece of code to produce a desired output but entails being fully conversant with the user’s requirements and delivering functional, efficient, and user-friendly applications. Designing software involves a creative usage of practical knowledge to address problems to come up with an innovative solution where software engineering involves the use of intellectuality along with innovation in teamwork. It alters its tools and strategies to reflect technological changes in order to improve the quality of software. Finally, software engineering is the process of building the software systems that make life easier, with creativity meticulously aligned to the step-by-step processes involved in developing these systems.
 
 What is software engineering, and how does it differ from traditional programming?
-Answer:
-Software engineering is defined as the disciplined process of constructing software and its related components as well as systematically supporting those components. It entails putting into practice the goal of engineering which is to develop software that is effective, dependable, and adaptable. In contrast, the conventional programming approach entails writing programs to solve particular problems and may not involve elements that ought to be looked at in larger pictures such as methods of project delivery, sustainability, or expansion.
-
-Hence while software engineering entails elaborate processes, and a combined effort in creating structures that are quite reliable, traditional programming on the other hand is all about applying logic and skills in problem solving as well as coding.
-
 Software Development Life Cycle (SDLC):
+Answer:
+Software Engineering is the adaptation of practical and organized approach to the development of software in order to have maximum reliability, efficiency and quality. This means it consists of a staged/seven-step model of software development including the design process, creation of software, testing and sustaining the software product.
+
+Differences from Traditional Programming:Scope: The scope of SE is from application development to its maintenance and disposal but traditional programming is merely the coding step among all these phases.
+
+Approach: Software engineering has specific practices, backed by strict application of process; traditional programming is characterized by less rigorous, more spur-of-the-moment approach.
+
+Team Size: May require more extensive and varied group participation; plain coding can be carried out by one person or a couple of people collectively.
+
+Documentation: Possesses a strong writing component; sometimes, regular programming entails a lack of extensive report writing.
+
+Software Development Life Cycle (SDLC): A framework that identifies procedures and activities spanning through the entire life cycle of the software right from the developmental stage to the time of deployment and continued use. Common stages are initiation, requirements gathering and determination, architecture, construction, integration, and support.
+
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
